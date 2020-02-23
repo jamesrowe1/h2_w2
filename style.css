@@ -222,7 +222,7 @@ p {
     display: nonel
     }
 
-@media screen and (max-width: 1078px) {
+@media screen and (max-width: 768px) {
    
     .benefits {
         padding: 20px;
